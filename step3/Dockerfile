@@ -1,6 +1,6 @@
 FROM ubuntu:20.04
 
-LABEL maintainer="Pascal Watteel"
+LABEL maintainer="Elnur Alverdiyev"
 
 ENV DEBIAN_FRONTEND noninteractive
 
